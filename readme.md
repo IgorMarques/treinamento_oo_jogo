@@ -2,7 +2,7 @@
 
 <p>Repositório de código do treinamento de OO dado pela 4Soft.</p>
 
-<h3>TODO:</h3>
+<h3>O que pode ser feito por conta própria:</h3>
 
 <ul>
   <li>Vantagens de desvantagens pelo tipo</li>
